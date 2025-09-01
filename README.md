@@ -29,6 +29,27 @@ Projeto desenvolvido no curso **Python 3 do Básico ao Avançado** de [Luiz Otá
 - Validações personalizadas em formulários.
 - Deploy pronto para produção (com suporte a arquivos estáticos e configurações seguras).
 
+## Interface
+<p align="center">
+   <img src="./img/inicio.png" alt="inicio" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/login_cadastro.png" alt="login" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/login_compra.png" alt="login_compra" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/detalhe_produto.png" alt="detalhe_prod" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/adicionando_ao_carrinho.png" alt="carrinho" width="800">
+</p>
+
 ## 📦 Instalação e Uso
 Clone o repositório e instale as dependências:
 ```bash
