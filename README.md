@@ -9,7 +9,7 @@ Projeto desenvolvido no curso **Python 3 do Básico ao Avançado** de [Luiz Otá
 - Sistema de templates do Django para renderização dinâmica.
 
 ## 📂 Estrutura do Projeto
-- `core/` – Configuração principal do Django (settings, urls, wsgi).
+- `loja/` – Configuração principal do Django (settings, urls, wsgi).
 - `produto/` – App para cadastro e gerenciamento de produtos.
 - `pedido/` – App para controle de carrinho e pedidos.
 - `perfil/` – App para cadastro, login, logout e gerenciamento de perfis de usuário.
