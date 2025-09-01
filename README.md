@@ -65,8 +65,8 @@ Projeto desenvolvido no curso **Python 3 do Básico ao Avançado** de [Luiz Otá
 ## 📦 Instalação e Uso
 Clone o repositório e instale as dependências:
 ```bash
-git clone https://github.com/seuusuario/ecommerce-django.git
-cd ecommerce-django
+git clone https://github.com/JsnEvt/ecommerce.git
+cd ecommerce
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
