@@ -4,8 +4,7 @@ Projeto desenvolvido no curso **Python 3 do Básico ao Avançado** de [Luiz Otá
 
 ## 🚀 Tecnologias Utilizadas
 - **Python 3** e **Django** para backend.
-- **SQLite** (ou MySQL/PostgreSQL) para banco de dados.
-- **Bootstrap** para front-end responsivo.
+- **SQLite** para banco de dados.
 - **Django ORM** para consultas e manipulação de dados.
 - Sistema de templates do Django para renderização dinâmica.
 
