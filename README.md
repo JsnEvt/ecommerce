@@ -31,23 +31,35 @@ Projeto desenvolvido no curso **Python 3 do Básico ao Avançado** de [Luiz Otá
 
 ## Interface
 <p align="center">
-   <img src="./img/inicio.png" alt="inicio" width="800">
+   <img src="./img/1-inicio.png" alt="inicio" width="800">
 </p>
 
 <p align="center">
-   <img src="./img/login_cadastro.png" alt="login" width="800">
+   <img src="./img/2-login_cadastro.png" alt="login" width="800">
 </p>
 
 <p align="center">
-   <img src="./img/login_compra.png" alt="login_compra" width="800">
+   <img src="./img/3-detalhe_produto.png" alt="detalhe_produto" width="800">
 </p>
 
 <p align="center">
-   <img src="./img/detalhe_produto.png" alt="detalhe_prod" width="800">
+   <img src="./img/4-login_compra.png" alt="login_compra" width="800">
 </p>
 
 <p align="center">
-   <img src="./img/adicionando_ao_carrinho.png" alt="carrinho" width="800">
+   <img src="./img/5-adicionando_ao_carrinho.png" alt="carrinho" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/6-detalhe_carrinho.png" alt="det_carrinho" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/7-resumo_compra.png" alt="resumo" width="800">
+</p>
+
+<p align="center">
+   <img src="./img/8-finalizando.png" alt="finalizando" width="800">
 </p>
 
 ## 📦 Instalação e Uso
